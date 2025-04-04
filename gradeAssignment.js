@@ -1,4 +1,4 @@
-/ Prompt the user to enter their score
+// Prompt the user to enter their score
 let score = parseInt(prompt("Enter your score:"));
 
 // Identify their grade based on their score result
